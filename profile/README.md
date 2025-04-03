@@ -8,7 +8,8 @@ TorchCS is a powerful open-source modification for Minecraft Dedicated Server â€
 
 > [!WARNING]
 > TorchCS is currently under active development.
-> More info, builds, and documentation coming soon â€“ stay tuned!
+> More info, builds, and documentation coming soon
+> stay tuned!
 
 
 ## âœ… To-Do
@@ -16,4 +17,4 @@ TorchCS is a powerful open-source modification for Minecraft Dedicated Server â€
 
 
 > [!NOTE]
->TorchCS will be released under the [`MIT-Lizenz`](https://choosealicense.com/licenses/mit/) Details will follow with the first release.
+>TorchCS will be released under the [`MIT-licens`](https://choosealicense.com/licenses/mit/) Details will follow with the first release.
