@@ -1,14 +1,14 @@
-# TorchCS-MC
-TorchCS ist eine leistungsstarke, open-source Modifikation für Minecraft Dedicated Server – entwickelt für maximale Performance, Erweiterbarkeit und Zukunftssicherheit.
+# TorchCS
+TorchCS is a powerful open-source modification for Minecraft Dedicated Server – developed for maximum performance, extensibility, and future-proofing.
 
-* 🚀 Blitzschnell, geschrieben in C++
+* 🚀 Lightning-fast, written in C++
 * 🛠️ Open Source
-* 📦 Immer Up to Date
+* 📦 Always Up to Date
 
 
 > [!WARNING]
-> TorchCS befindet sich aktuell in der aktiven Entwicklung.
-> Mehr Infos, Builds und Dokumentation folgen bald – stay tuned!
+> TorchCS is currently under active development.
+> More info, builds, and documentation coming soon – stay tuned!
 
 
 ## ✅ To-Do
@@ -16,5 +16,4 @@ TorchCS ist eine leistungsstarke, open-source Modifikation für Minecraft Dedica
 
 
 > [!NOTE]
->TorchCS wird unter der [`MIT-Lizenz`](https://choosealicense.com/licenses/mit/) veröffentlicht.
->Details folgen mit dem ersten Release.
+>TorchCS will be released under the [`MIT-Lizenz`](https://choosealicense.com/licenses/mit/) Details will follow with the first release.
