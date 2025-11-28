@@ -1,5 +1,5 @@
 # TorchCS
-TorchCS is a powerful open-source modification for Minecraft Dedicated Server – developed for maximum performance, extensibility, and future-proofing.
+TorchCS is a modding project for Minecraft Bedrock. It includes its own server software, a proxy manager, and more.
 
 > [!WARNING]
 > TorchCS is currently under active development.
